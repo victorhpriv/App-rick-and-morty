@@ -34,14 +34,23 @@ Foi utilizada a arquitetura **MVVM (Model-View-ViewModel)** para manter a separa
 **Estrutura de pastas:**
 lib/
 ├── core/ # Configurações e temas
+
 │ ├── theme/
+
 │ └── constants/
+
 ├── data/ # Camada de dados
+
 │ ├── models/ # Modelos de dados
+
 │ └── services/ # Consumo da API
+
 ├── ui/ # Camada de apresentação
+
 │ ├── pages/ # Telas principais
+
 │ ├── widgets/ # Componentes reutilizáveis
+
 └── main.dart # Ponto de entrada
 
 
