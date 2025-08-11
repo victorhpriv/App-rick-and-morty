@@ -81,7 +81,7 @@ lib/
 
 ```bash
 # Clonar repositório
-git clone https://github.com/seu-repo/rick-and-morty-app.git
+git clone https://github.com/victorhpriv/App-rick-and-morty
 
 # Entrar na pasta
 cd rick-and-morty-app
